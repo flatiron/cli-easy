@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/flatiron/cli-easy.png)](http://travis-ci.org/flatiron/cli-easy)
 # CLIeasy 
 
 A fluent (i.e. chainable) syntax for generating vows tests for CLI applications.
